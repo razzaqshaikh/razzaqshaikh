@@ -5,7 +5,7 @@ I'm a **Data Analytics enthusiast** and **Python developer** who enjoys turning 
 ---
 
 - 👀 I’m interested in:  
-  **Data Analytics**, **Business Intelligence**, **Machine Learning**, and **Full-Stack Development**
+  **Data Analytics**, **Business Intelligence**, **Machine Learning**
 
 - 🌱 I’m currently learning:  
   **Advanced Forecasting Models**, **Power BI Best Practices**, and **Python Automation**
@@ -15,7 +15,7 @@ I'm a **Data Analytics enthusiast** and **Python developer** who enjoys turning 
 
 - 📫 How to reach me:  
   - 📧 Email:shaikhrazzaq31@gmail.com  
-  - 💼 LinkedIn: [Abdul Razzaque](https://www.linkedin.com/in/abdulrazzaque-dev)
+  - 💼 LinkedIn: [Abdul Razzaque](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 - 😄 Pronouns: He/Him
 
@@ -31,7 +31,7 @@ I'm a **Data Analytics enthusiast** and **Python developer** who enjoys turning 
 - [**Razzaque_Car_Rental**](https://github.com/razzaqshaikh/Razzaque_Car_Rental) – CRUD-based car rental system in Java  
 - [**RazzaqSocial**](https://github.com/razzaqshaikh/RazzaqSocial) – Social media prototype using client-server architecture  
 - [**YHR (Yoga and Home Remedies)**](https://github.com/razzaqshaikh/YHR) – Java full-stack app for doctor appointments & wellness advice  
-- [**hello-github-actions**](https://github.com/razzaqshaikh/hello-github-actions) – My first GitHub Actions CI/CD workflow  
+
 
 ---
 
