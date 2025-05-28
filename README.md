@@ -14,7 +14,7 @@ I'm a **Data Analytics enthusiast** and **Python developer** who enjoys turning 
   **Open-source projects** and **real-world data challenges**
 
 - 📫 How to reach me:  
-  - 📧 Email: razzaqshaikh.dev@gmail.com  
+  - 📧 Email:shaikhrazzaq31@gmail.com  
   - 💼 LinkedIn: [Abdul Razzaque](https://www.linkedin.com/in/abdulrazzaque-dev)
 
 - 😄 Pronouns: He/Him
